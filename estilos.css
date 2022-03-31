@@ -2,13 +2,27 @@
     text-align: center;
 }
 
-.img_responsive{
+.img_responsive{ /*esto es para la imagenes en los cuadros*/
     width: 100%;
-    max-width: 800 px;
+    max-width: 360px;
+    height: 100%;
+    max-height: 370px;
     margin: auto;
+
+}
+
+.img_responsive2{   /*esto es para el logo de la compañia*/
+    width: 100%;
+    
+    margin: auto;
+
 
 }
 a{
     color: crimson;
    
+}
+
+.espaciado{
+    padding-top: 15px; /*espacio entre dos cosas*/
 }
