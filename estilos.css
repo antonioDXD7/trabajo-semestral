@@ -11,6 +11,14 @@
 
 }
 
+.img_responsive1{ /*esto es para la imagenes en los cuadros*/
+    width: 450px;
+    height: 450px;
+    margin: auto;
+
+}
+
+
 .img_responsive2{   /*esto es para el logo de la compañia*/
     width: 100%;
     
@@ -19,10 +27,11 @@
 
 }
 a{
-    color: crimson;
+    color: crimson;  /*con esto modifico el color de todos los codigos */
    
 }
 
 .espaciado{
-    padding-top: 15px; /*espacio entre dos cosas*/
+    padding-top: 16px; /*espacio entre dos cosas*/
 }
+
