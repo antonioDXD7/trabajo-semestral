@@ -1,3 +1,5 @@
+
+/*los css se colocan dentro de los div , class(como las imagenes) ,img ,h1, p ,etc. (osea se coloca dentor de lo que queramos modificar*/
 .centrado{
     text-align: center;
 }
@@ -21,6 +23,15 @@
 
 .img_responsive2{   /*esto es para el logo de la compañia*/
     width: 100%;
+    height: 150px;
+    
+    margin: auto;
+
+
+}
+.gracias1{   /*esto es para el agradecimiento de colaboradores*/
+    width: 1150px;
+    height: 200px;
     
     margin: auto;
 
@@ -34,4 +45,10 @@ a{
 .espaciado{
     padding-top: 16px; /*espacio entre dos cosas*/
 }
+
+.tamañaCL{
+    color: black;  /*modifica el color de la letra en colaboradores*/
+    font-size: 25px; /*modifica el tamaño*/
+}
+
 
