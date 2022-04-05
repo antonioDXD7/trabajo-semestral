@@ -1,4 +1,5 @@
 
+
 /*los css se colocan dentro de los div , class(como las imagenes) ,img ,h1, p ,etc. (osea se coloca dentor de lo que queramos modificar*/
 .centrado{
     text-align: center;
@@ -29,6 +30,26 @@
 
 
 }
+
+.admiagregado{   /*esto es para las imagenes de admi*/
+    width: 400px;
+    height: 500px;
+    
+    margin: auto;
+
+
+}
+
+.admiagregado2{   /*esto es para las imagenes de admi*/
+    width: 440px;
+    height: 500px;
+    
+    margin: auto;
+
+
+}
+
+
 .gracias1{   /*esto es para el agradecimiento de colaboradores*/
     width: 1150px;
     height: 200px;
@@ -50,5 +71,3 @@ a{
     color: black;  /*modifica el color de la letra en colaboradores*/
     font-size: 25px; /*modifica el tamaño*/
 }
-
-
